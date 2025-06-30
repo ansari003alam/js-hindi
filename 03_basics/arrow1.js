@@ -35,4 +35,8 @@ one()
 // }
 const addNumber = (num1 , num2) =>  ( num1 + num2 ) 
     
-console.log(addNumber(4,7))
+//console.log(addNumber(4,7))
+
+const users = () => ({username : "Saif"})
+
+console.log(users());
