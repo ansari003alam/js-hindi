@@ -6,3 +6,13 @@ const course = {
 
 const {courseauthor} = course
 console.log(courseauthor);
+
+
+
+// JSON
+
+{
+    "name" : "Saif",
+    "coursename" : "mathematics",
+    "price" : "free"
+}
